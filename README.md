@@ -21,3 +21,11 @@ Purpose:
   Maintain a healthy reporting system to ensure that all incidents are properly recorded and analyzed
   Organization can then identify potential hazards and take proactive measures to prevent future incidents from happening
   Reduce incident rates, improving overall safety performance, and enhancing organizational reputation.
+
+Steps:
+1. EDA report
+2. Data preprocessing
+3. Text processing
+4. Train-Test split
+5. Feature extraction
+6. Model training and evaluation
